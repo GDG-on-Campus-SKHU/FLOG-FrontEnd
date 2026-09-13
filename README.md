@@ -1,4 +1,4 @@
-# <img src="https://github.com/GDSC-SKHU/FLOG-FrontEnd/blob/main/public/Flogo-green.png?raw=true" alt="로고" style="max-width: 30px; max-height: 30px;"> FLOG
+# <img src="https://github.com/GDSC-SKHU/FLOG-FrontEnd/blob/main/public/Flogo-green.png?raw=true" alt="로고" style="width: 36px; height: 36px; margin-top:100px" valign="top"> FLOG
 [![logo1](https://user-images.githubusercontent.com/80957486/229121064-f7762e53-0024-4ec0-ad69-3dedfb9c975e.png)](https://flog-tau.vercel.app/)
 Our previous service was named BodyLog, but it has now been changed to FLOG.
 
